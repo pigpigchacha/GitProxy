@@ -19,7 +19,7 @@ github clone慢！！！慢慢慢！！！为什么这么慢？？？本篇帮�
 <img src="https://misc-1254387101.cos.ap-chengdu.myqcloud.com/gitslow/mainwin.png" />
 </div>
 
-4. 我们测试一下吧，试着clone下 chromium，速度直接上青天，原本20kb/s 直接变 10M/s ！！！
+4. 我们测试一下吧，试着clone下 chromium，一定要使用https地址，速度直接上青天，原本20kb/s 直接变 10M/s ！！！
 <div align=center> 
 <img src="https://misc-1254387101.cos.ap-chengdu.myqcloud.com/gitslow/chromium.png" />
 </div>
