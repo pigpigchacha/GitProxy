@@ -4,7 +4,7 @@ github clone慢！！！慢慢慢！！！为什么这么慢？？？本篇帮�
 
 
 ## 根据操作系统安装如下软件
-- pigcha加速器，下载地址：https://pigpigchacha.github.io/officialsite
+- pigcha加速器，下载地址：http://www.co2fun.com
 - git客户端，下载地址：github.com
 
 ***
